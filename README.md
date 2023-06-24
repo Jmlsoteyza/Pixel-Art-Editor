@@ -1,7 +1,7 @@
 # Pixel-Art-Editor
 
 
-As a front-end developer, I have created a website that features a pixel-art editor. This online tool allows users to create pixel art, a graphic aesthetic that originated from 8- and 16-bit computers.
+As an aspiring front-end developer, I have created a website that features a pixel-art editor that I learned the methods from Eloquent Javascript book. This online tool allows users to create pixel art, a graphic aesthetic that originated from 8- and 16-bit computers.
 
 Pixel art involves creating images at the pixel level, resulting in a distinctive retro look that has gained popularity in recent years. With my Pixel-Art-Editor website, users can easily create their own pixel art designs, choosing from a wide range of colors and editing tools.
 
